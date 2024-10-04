@@ -1,6 +1,6 @@
 [submodule "anchor-counter"]
 	path = anchor-counter
-	url = /home/bullshit/Solana-Dev/anchor-counter
+	url = https://github.com/Weebad123/anchor-counter.git
 [submodule "anchor-student-intro"]
 	path = anchor-student-intro
 	url = ./anchor-student-intro
