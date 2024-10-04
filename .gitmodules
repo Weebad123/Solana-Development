@@ -6,7 +6,7 @@
 	url = ./anchor-student-intro
 [submodule "anchor-movie-review-program"]
 	path = anchor-movie-review-program
-	url = ./anchor-movie-review-program
+	url = https://github.com/Weebad123/anchor-movie-review-program.git
 [submodule "anchor-token-movie-review"]
 	path = anchor-token-movie-review
 	url = ./anchor-token-movie-review
