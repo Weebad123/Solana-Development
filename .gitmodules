@@ -9,7 +9,7 @@
 	url = https://github.com/Weebad123/anchor-movie-review-program.git
 [submodule "anchor-token-movie-review"]
 	path = anchor-token-movie-review
-	url = ./anchor-token-movie-review
+	url = https://github.com/Weebad123/anchor-token-movie-review.git
 [submodule "anchor-student-intro-program"]
 	path = anchor-student-intro-program
 	url = https://github.com/Weebad123/anchor-student-intro-program.git
