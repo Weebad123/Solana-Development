@@ -1,0 +1,12 @@
+[submodule "anchor-counter"]
+	path = anchor-counter
+	url = /home/bullshit/Solana-Dev/anchor-counter
+[submodule "anchor-student-intro"]
+	path = anchor-student-intro
+	url = ./anchor-student-intro
+[submodule "anchor-movie-review-program"]
+	path = anchor-movie-review-program
+	url = ./anchor-movie-review-program
+[submodule "anchor-token-movie-review"]
+	path = anchor-token-movie-review
+	url = ./anchor-token-movie-review
