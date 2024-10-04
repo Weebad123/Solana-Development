@@ -3,10 +3,13 @@
 	url = https://github.com/Weebad123/anchor-counter.git
 [submodule "anchor-student-intro"]
 	path = anchor-student-intro
-	url = ./anchor-student-intro
+	url = https://github.com/Weebad123/anchor-student-intro-program.git
 [submodule "anchor-movie-review-program"]
 	path = anchor-movie-review-program
 	url = https://github.com/Weebad123/anchor-movie-review-program.git
 [submodule "anchor-token-movie-review"]
 	path = anchor-token-movie-review
 	url = ./anchor-token-movie-review
+[submodule "anchor-student-intro-program"]
+	path = anchor-student-intro-program
+	url = https://github.com/Weebad123/anchor-student-intro-program.git
